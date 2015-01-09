@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="def23b68-9122-4b0c-9da7-63b5bd91f065" name="Default" comment="" />
+    <ignored path="project3.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="project3" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bustersAgents.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="2685" max-vertical-offset="3540">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="busters.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="4" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="8640">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inference.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="508" column="32" selection-start="22730" selection-end="22730" vertical-scroll-proportion="6.142061" vertical-offset="5340" max-vertical-offset="9480">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tracking/util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="207" column="0" selection-start="13041" selection-end="13041" vertical-scroll-proportion="0.0" vertical-offset="3105" max-vertical-offset="9900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/tracking/busters.py" />
+        <option value="$PROJECT_DIR$/../Bowden/project3/inference.py" />
+        <option value="$PROJECT_DIR$/tracking/bustersAgents.py" />
+        <option value="$PROJECT_DIR$/tracking/grading.py" />
+        <option value="$PROJECT_DIR$/tracking/inference.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="152" />
+    <option name="y" value="22" />
+    <option name="width" value="1085" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tracking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bowden/project3/bustersAgents.py" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="SearchEverywhereHistory" value="&#10;observationDistrib" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.q5">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q1" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q2" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q2" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q3" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q3" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q4" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q4" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q5" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q5" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="full autograder" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q6" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q6" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="q7" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python-32" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tracking" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="project3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tracking/autograder.py" />
+      <option name="PARAMETERS" value="-q q7" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.q1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.q2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.q3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.q4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.q5" />
+      <item index="5" class="java.lang.String" itemvalue="Python.full autograder" />
+      <item index="6" class="java.lang.String" itemvalue="Python.q6" />
+      <item index="7" class="java.lang.String" itemvalue="Python.q7" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="def23b68-9122-4b0c-9da7-63b5bd91f065" name="Default" comment="" />
+      <created>1394593893095</created>
+      <updated>1394593893095</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="152" y="22" width="1085" height="690" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1843318" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3558776" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="4" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="8640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="604" column="0" selection-start="26488" selection-end="26772" vertical-scroll-proportion="0.0" vertical-offset="9060" max-vertical-offset="9645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="0" selection-start="13041" selection-end="13041" vertical-scroll-proportion="0.0" vertical-offset="3105" max-vertical-offset="9900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="2685" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="4" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="8640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="536" column="63" selection-start="23786" selection-end="23786" vertical-scroll-proportion="0.0" vertical-offset="8040" max-vertical-offset="9465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="0" selection-start="13041" selection-end="13041" vertical-scroll-proportion="0.0" vertical-offset="3105" max-vertical-offset="9900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="4" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="8640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="451" column="8" selection-start="20023" selection-end="20023" vertical-scroll-proportion="0.0" vertical-offset="6765" max-vertical-offset="8775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="477" column="18" selection-start="20690" selection-end="20690" vertical-scroll-proportion="0.0" vertical-offset="7155" max-vertical-offset="9900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="332" column="0" selection-start="14415" selection-end="14415" vertical-scroll-proportion="0.0" vertical-offset="4980" max-vertical-offset="8070">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="5" selection-start="14016" selection-end="14016" vertical-scroll-proportion="0.0" vertical-offset="3615" max-vertical-offset="9900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Bowden/project3/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="0" selection-start="4310" selection-end="4310" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5730" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="150" column="18" selection-start="6372" selection-end="6372" vertical-scroll-proportion="0.0" vertical-offset="2250" max-vertical-offset="7770">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="5" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="9900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="17" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.0" vertical-offset="870" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="0" selection-start="5885" selection-end="5885" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="7635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="56" selection-start="3481" selection-end="3481" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="0" selection-start="5885" selection-end="5885" vertical-scroll-proportion="0.0" vertical-offset="2055" max-vertical-offset="7635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="56" selection-start="3481" selection-end="3481" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="0" selection-start="5885" selection-end="5885" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7635">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="56" selection-start="3481" selection-end="3481" vertical-scroll-proportion="0.0" vertical-offset="1245" max-vertical-offset="8640" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/autograder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-13.666667" vertical-offset="4920" max-vertical-offset="5280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/trackingTestClasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-21.208334" vertical-offset="7635" max-vertical-offset="7995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/test_cases/q2/1-ExactElapse.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/test_cases/q2/2-ExactElapse.test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.28150135" vertical-offset="105" max-vertical-offset="525" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Bowden/project3/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="174" column="42" selection-start="6883" selection-end="6883" vertical-scroll-proportion="0.0" vertical-offset="2385" max-vertical-offset="5685" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Bowden/project3/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2160" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/distanceCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.7436762" vertical-offset="1627" max-vertical-offset="2970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/bustersAgents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="7622" selection-end="7622" vertical-scroll-proportion="0.0" vertical-offset="2685" max-vertical-offset="3465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/busters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="4" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="8535">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/grading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="282" column="0" selection-start="9281" selection-end="9281" vertical-scroll-proportion="3.373297" vertical-offset="2992" max-vertical-offset="4320" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="0" selection-start="13041" selection-end="13041" vertical-scroll-proportion="0.0" vertical-offset="2938" max-vertical-offset="9855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tracking/inference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="508" column="32" selection-start="22730" selection-end="22730" vertical-scroll-proportion="6.142061" vertical-offset="5340" max-vertical-offset="9480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
